@@ -2,10 +2,14 @@
 README for setting up a Linux WSL environment with GCC.
 
 This tutorial guide provides step-by-step instructions for setting up a Linux environment with GCC on Windows 10/11 using Windows Subsystem for Linux (WSL).
+![Ubuntu-Logo](https://user-images.githubusercontent.com/95499848/226253104-4d6df8a5-99b6-4a8a-b66b-d9f9f00299a3.jpg)
+
+
 
 1. Prerequisites:
    You will need the following:
    - A Windows 10 machine.
+   - Linux Distro : Ubuntu 22.04 or 18.04
    - Windows Subsystem for Linux (WSL) installed.
    - Basic knowledge of the Linux command-line interface.
 

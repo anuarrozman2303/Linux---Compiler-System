@@ -32,7 +32,7 @@ This tutorial guide provides step-by-step instructions for setting up a Linux en
 4. Click Download button to start. The progress bar will show the transmit progress of each image. You can also get the message of operation successfully or errors from the log window.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95499848/226252889-1bdd0cce-da77-4dde-8254-2b1b6aefc256.png" width="300" height="400" align="centre">
+  <img src="https://user-images.githubusercontent.com/95499848/226252889-1bdd0cce-da77-4dde-8254-2b1b6aefc256.png" width="500" height="600" align="centre">
 </p>
 
 5. Contributing:

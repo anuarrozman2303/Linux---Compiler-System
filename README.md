@@ -30,9 +30,11 @@ This tutorial guide provides step-by-step instructions for setting up a Linux en
 
 
 4. Click Download button to start. The progress bar will show the transmit progress of each image. You can also get the message of operation successfully or errors from the log window.
-![Untitled3](https://user-images.githubusercontent.com/95499848/226252889-1bdd0cce-da77-4dde-8254-2b1b6aefc256.png)
 
- 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95499848/226252889-1bdd0cce-da77-4dde-8254-2b1b6aefc256.png" width="880" height="300" align="centre">
+</p>
+
 5. Contributing:
     - If you would like to contribute to this tutorial guide, you can submit a pull request with your changes. Please make sure that your changes are relevant and useful.
    

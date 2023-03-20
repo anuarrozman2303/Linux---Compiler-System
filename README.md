@@ -14,10 +14,18 @@ This tutorial guide provides step-by-step instructions for setting up a Linux en
    - Updating and Upgrading the Linux Distribution.
    - Installing GCC on the Linux Distribution.
    - Testing the GCC Installation.
+
+3. Example of output of make file for both project folders.
+![Untitled](https://user-images.githubusercontent.com/95499848/226252351-676b01e4-5a63-4d89-a144-9930d461c3ef.png)
+![Untitled1](https://user-images.githubusercontent.com/95499848/226252371-34a34c59-48b3-4cde-af19-d2b63cf09f3f.png)
+
+4. Click Download button to start. The progress bar will show the transmit progress of each image. You can also get the message of operation successfully or errors from the log window.
+![Untitled3](https://user-images.githubusercontent.com/95499848/226252889-1bdd0cce-da77-4dde-8254-2b1b6aefc256.png)
+
  
-3.  Contributing:
+5. Contributing:
     - If you would like to contribute to this tutorial guide, you can submit a pull request with your changes. Please make sure that your changes are relevant and useful.
    
 
-4. Disclaimer:
+6. Disclaimer:
    - This tutorial guide is provided "as is" and without warranties of any kind, either express or implied. The author and contributors will not be liable for any damages or injuries arising from the use of this guide.

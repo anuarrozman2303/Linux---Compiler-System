@@ -3,8 +3,9 @@ README for setting up a Linux WSL environment with GCC.
 
 This tutorial guide provides step-by-step instructions for setting up a Linux environment with GCC on Windows 10/11 using Windows Subsystem for Linux (WSL).
 
-<img src="https://user-images.githubusercontent.com/95499848/226253104-4d6df8a5-99b6-4a8a-b66b-d9f9f00299a3.jpg" width="600" height="400" align="centre">
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95499848/226253104-4d6df8a5-99b6-4a8a-b66b-d9f9f00299a3.jpg" width="600" height="400" align="centre">
+</p>
 
 
 1. Prerequisites:

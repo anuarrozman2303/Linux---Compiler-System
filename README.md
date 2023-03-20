@@ -20,4 +20,4 @@ This tutorial guide provides step-by-step instructions for setting up a Linux en
    
 
 4. Disclaimer:
-   - This tutorial guide is provided "as is" and without warranties of any kind, either express or implied. The author and contributors will not be liable for any damages or injuries arising from the use of this guide.
+  - This tutorial guide is provided "as is" and without warranties of any kind, either express or implied. The author and contributors will not be liable for any damages or injuries arising from the use of this guide.

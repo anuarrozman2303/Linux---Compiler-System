@@ -24,8 +24,8 @@ This tutorial guide provides step-by-step instructions for setting up a Linux en
 3. Example of output of make file for both project folders.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95499848/226252351-676b01e4-5a63-4d89-a144-9930d461c3ef.png" width="880" height="200" align="centre">
-  <img src="https://user-images.githubusercontent.com/95499848/226252371-34a34c59-48b3-4cde-af19-d2b63cf09f3f.png" width="880" height="200" align="centre">
+  <img src="https://user-images.githubusercontent.com/95499848/226252351-676b01e4-5a63-4d89-a144-9930d461c3ef.png" width="1080" height="200" align="centre">
+  <img src="https://user-images.githubusercontent.com/95499848/226252371-34a34c59-48b3-4cde-af19-d2b63cf09f3f.png" width="1080" height="200" align="centre">
 </p>
 
 

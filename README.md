@@ -22,8 +22,12 @@ This tutorial guide provides step-by-step instructions for setting up a Linux en
    - Testing the GCC Installation.
 
 3. Example of output of make file for both project folders.
-![Untitled](https://user-images.githubusercontent.com/95499848/226252351-676b01e4-5a63-4d89-a144-9930d461c3ef.png)
-![Untitled1](https://user-images.githubusercontent.com/95499848/226252371-34a34c59-48b3-4cde-af19-d2b63cf09f3f.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95499848/226252351-676b01e4-5a63-4d89-a144-9930d461c3ef.png" width="700" height="400" align="centre">
+  <img src="https://user-images.githubusercontent.com/95499848/226252371-34a34c59-48b3-4cde-af19-d2b63cf09f3f.png" width="700" height="400" align="centre">
+</p>
+
 
 4. Click Download button to start. The progress bar will show the transmit progress of each image. You can also get the message of operation successfully or errors from the log window.
 ![Untitled3](https://user-images.githubusercontent.com/95499848/226252889-1bdd0cce-da77-4dde-8254-2b1b6aefc256.png)

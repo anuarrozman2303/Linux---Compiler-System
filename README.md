@@ -40,17 +40,28 @@ Setting up a Linux environment using VMWare.
    - Ubuntu Images
      https://ubuntu.com/download/desktop
   
-2. Update & Install Packages.
+2. Prerequisite update & install package:
    
    ``` sudo apt-get update && sudo apt-get upgrade
-       sudo apt-get install gcc-arm-none-eabi
-       sudo apt-get install git vim python3 python-pip 
+       sudo apt install gcc-arm-none-eabi
+       sudo apt install git
    ```
    
-3. Install Packages Related to Kernel Configuration.
+3. Kernel build & configuration:
    
    ``` 
-       sudo apt-get install libncurses-dev flex bison openssl libssl-dev dkms libelf-dev libudev-dev libpci-dev libiberty-dev autoconf 
+      sudo apt install libncurses-dev 
+		  sudo apt install flex bison openssl libssl-dev dkms 
+		  sudo apt install libelf-dev libudev-dev libpci-dev libiberty-dev 
+		  sudo apt install autoconf 
+   ```
+   
+4
+
+4. Optional:
+   
+   ```
+      sudo apt install vim python3 python-pip
    ```
    
 4. Setup Share Directory.

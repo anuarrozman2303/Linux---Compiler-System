@@ -1,0 +1,47 @@
+1. Instal VMWare.
+	- 2GB/4GB Memory.
+	- 40GB/50GB Storage.
+
+2. Choosing Linux Distro.
+	- Ubuntu 18 - Ubuntu 22.
+
+3. Complete the installation by setting the UNIX credentials.
+	- Username: #Insert your username
+	- Password: #Insert your password
+
+4. Update & install packages:
+
+	- Prerequisite:
+		- sudo apt-get update && sudo apt-get upgrade -y
+		- sudo apt-get install gcc-arm-none-eabi
+
+	- Kernel build & configuration packages:
+		- sudo apt-get install libncurses-dev 
+		- sudo apt-get install flex bison openssl libssl-dev dkms 
+		- sudo apt-get install libelf-dev libudev-dev libpci-dev libiberty-dev autoconf 
+
+	- Optional:
+		- sudo apt-get install vim
+
+	- Extra packages needed by AiThinker.
+		- sudo apt-get install python3 python-pip
+
+5. Clone the git repo to the system.
+	- ambd_sdk:
+		- git clone https://github.com/ambiot/ambd_sdk.git
+	
+	- Ai-Thinker-LoRaWAN
+		- git clone https://github.com/Ai-Thinker-Open/Ai-Thinker-LoRaWAN-Ra-08.git
+
+6. Change permission to allow the user to r/w/x every files.
+	- chmod -R 777 ./
+
+7. Compiling the project.
+	- ambd_sdk:
+		- cd ..path/project_lp
+	  	  make all
+		- cd ..path/project_hp
+	  	  make all
+	- Ai-Thinker-LoRaWAN:
+		- cd projects/ASR6601CB-EVAL/examples/lora/pingpong/
+		  make

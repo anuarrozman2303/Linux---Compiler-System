@@ -26,6 +26,23 @@
 	- Extra packages needed by AiThinker.
 		- sudo apt-get install python3 python-pip
 
+4. Setup Share Directory.
+   	- Enable shared file in VMWare.
+   	- Check added shared file.
+		- wmware-hgfsclient
+  
+5. Configure File System Table and Mount.
+    	- Edit filesystem table with below configuration line.
+
+       	- sudo vim /etc/fstab
+   
+       	  vmhgfs-fuse           /mnt/hgfs     fuse      /defaults,allow_other    0   0
+
+      - Create the mount directory and mount the filesystem to the kernel. 
+		- mkdir /mnt/hgfs
+       	- mount -a
+
+
 5. Clone the git repo to the system.
 	- ambd_sdk:
 		- git clone https://github.com/ambiot/ambd_sdk.git

@@ -1,5 +1,6 @@
 # Linux Compiler System
-README for setting up a Linux WSL environment with GCC.
+## Section 1
+Setting up a Linux WSL environment with GCC.
 
 This tutorial guide provides step-by-step instructions for setting up a Linux environment with GCC on Windows 10/11 using Windows Subsystem for Linux (WSL).
 

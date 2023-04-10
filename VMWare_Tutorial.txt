@@ -13,9 +13,11 @@
 
 4. Update & install packages needed.
 	- Prerequisite:
-		- sudo apt-get update
-		- sudo apt-get upgrade -y
-		- sudo apt-get install gcc-arm-none-eabi
+		```
+		sudo apt-get update
+		sudo apt-get upgrade -y
+		sudo apt-get install gcc-arm-none-eabi
+		```
 
 	- Kernel build & configuration:
 		- sudo apt install libncurses-dev 

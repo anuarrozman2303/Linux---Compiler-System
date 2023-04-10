@@ -50,10 +50,10 @@ Setting up a Linux environment using VMWare.
 3. Kernel build & configuration:
    
    ``` 
-      sudo apt install libncurses-dev 
-		  sudo apt install flex bison openssl libssl-dev dkms 
-		  sudo apt install libelf-dev libudev-dev libpci-dev libiberty-dev 
-		  sudo apt install autoconf 
+      	sudo apt install libncurses-dev 
+	sudo apt install flex bison openssl libssl-dev dkms 
+	sudo apt install libelf-dev libudev-dev libpci-dev libiberty-dev 
+	sudo apt install autoconf 
    ```
    
 4
